@@ -41,3 +41,10 @@
 ###
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridoo123&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+
+
+**Don't forget to check links in my bio**
