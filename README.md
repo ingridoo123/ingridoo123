@@ -9,7 +9,6 @@
   
 - 📫 How to reach me - **Just mail me**
 
-- ⚡ Fun fact - **I'm really into astronomy and space stuff.**
   
 ###
 
