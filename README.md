@@ -3,8 +3,10 @@
 
 ###
 
+- 🎓 Computer Science student at Poznan University of Technology
+  
 - 🌱 I’m currently learning - **Kotlin/Compose Multiplatorm**
-
+  
 - 📫 How to reach me - **just mail me**
 
 - ⚡ Fun fact - **I'm really into astronomy and space stuff.**
