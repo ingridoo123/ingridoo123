@@ -38,13 +38,8 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-###
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridoo123&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingridoo123r/ingridoo123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingridoo123/ingridoo123/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingridoo123/ingridoo123/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ingridoo123/ingridoo123/output/github-snake.svg" />
 </picture>
