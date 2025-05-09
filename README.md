@@ -43,6 +43,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingridoo123/ingridoo123/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ingridoo123/ingridoo123/output/github-snake.svg" />
 </picture>
-
-
-**Don't forget to check links in my bio**
+<h3 align="left">Don't forget to check links in my bio</h3>
