@@ -3,7 +3,7 @@
 
 ###
 
-- 🎓 Computer Science student at Poznan University of Technology - **Fourth semester**
+- 🎓 Computer Science student at Poznan University of Technology - **Fifth semester**
   
 - 🌱 I’m currently learning - **Kotlin/Compose Multiplatorm**
   
